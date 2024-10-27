@@ -1,0 +1,16 @@
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\bin\Debug\TeamJRPG_editor.exe.config
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\bin\Debug\TeamJRPG_editor.exe
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\bin\Debug\TeamJRPG_editor.pdb
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\obj\Debug\TeamJRPG_editor.csproj.AssemblyReference.cache
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\obj\Debug\TeamJRPG_editor.Form1.resources
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\obj\Debug\TeamJRPG_editor.Properties.Resources.resources
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\obj\Debug\TeamJRPG_editor.csproj.GenerateResource.cache
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\obj\Debug\TeamJRPG_editor.csproj.CoreCompileInputs.cache
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\obj\Debug\TeamJRPG_editor.exe
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\obj\Debug\TeamJRPG_editor.pdb
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\bin\Debug\res\tiles\tilemap_forest.png
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\bin\Debug\res\characters\bodies\body_male_spritesheet.png
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\bin\Debug\res\characters\bodies\body_male_spritesheet0.png
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orest\Downloads\pojects\TeamJRPG_editor\obj\Debug\TeamJRPG.2F91573C.Up2Date
